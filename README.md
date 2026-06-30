@@ -19,10 +19,7 @@
 <br/><br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=harnoor8616-dsa&label=Visitors&color=F83324&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/harnoor8616/Getting_started_with_Data_Structures?style=for-the-badge&color=F83324&labelColor=000000)
-![Forks](https://img.shields.io/github/forks/harnoor8616/Getting_started_with_Data_Structures?style=for-the-badge&color=F83324&labelColor=000000)
-![Last Commit](https://img.shields.io/github/last-commit/harnoor8616/Getting_started_with_Data_Structures?style=for-the-badge&color=F83324&labelColor=000000)
-![Top Language](https://img.shields.io/github/languages/top/harnoor8616/Getting_started_with_Data_Structures?style=for-the-badge&color=F83324&labelColor=000000)
+
 
 </div>
 
@@ -40,18 +37,17 @@
 <tr>
 <td>
 
-This repository is a **complete, structured archive** of my Data Structures & Algorithms practice on LeetCode — built with a single goal: **mastering patterns, not memorizing problems.**
+This repository serves as a structured record of my journey through **Data Structures & Algorithms** on **LeetCode**, built around a single philosophy: **master algorithmic patterns, not individual problems.** Rather than chasing problem counts, I focus on developing the ability to recognize recurring techniques, reason through unfamiliar challenges, and design efficient solutions from first principles.
 
-- 🔄 **Automatic Sync** — Every accepted submission is pushed here instantly via the **LeetHub** browser extension. No manual copy-pasting, no missed problems.
-- 💠 **Modern C++** — All solutions are written in clean, idiomatic, modern C++ with performance and readability in mind.
-- 🧩 **Pattern-Based Roadmap** — Problems are grouped by the underlying algorithmic pattern (Two Pointers, Sliding Window, DP, Graphs, etc.) instead of being solved in random order.
-- 🎯 **Depth Over Volume** — The focus is on internalizing *why* a pattern works, so it can be recalled and applied under interview pressure — not just inflating a solve count.
-- 📈 **Public Accountability** — A transparent, public log of consistent practice and continuous improvement.
+- 🔄 **Automatic Synchronization** — Every accepted LeetCode submission is automatically synchronized to this repository through the **LeetHub** browser extension, ensuring that my progress is documented consistently without any manual intervention.
 
-</td>
-</tr>
-</table>
+- 💠 **Modern C++** — All solutions are implemented in modern, standards-compliant **C++**, with an emphasis on clean architecture, readability, maintainability, and algorithmic efficiency.
 
+- 🧩 **Pattern-Oriented Learning** — Problems are approached through a structured, pattern-based roadmap, allowing me to build transferable intuition across concepts such as Two Pointers, Sliding Window, Graph Traversal, Dynamic Programming, and many others.
+
+- 🎯 **Understanding Before Optimization** — Every solution represents an effort to understand the underlying idea behind the algorithm, analyze trade-offs, and refine the approach, rather than simply arriving at an accepted submission.
+
+- 📈 **A Living Record of Growth** — This repository reflects my commitment to consistent practice, disciplined learning, and continuous improvement as I prepare for technical interviews, competitive programming, and real-world software engineering challenges.
 <div align="center">
 
 > ### *"Every expert was once a beginner who refused to quit."*
@@ -203,40 +199,9 @@ This repository is a **complete, structured archive** of my Data Structures & Al
 
 ## ⚙️ Sync Workflow
 
-<div align="center">
-
-```
-   ┌──────────────┐
-   │   LeetCode   │
-   └──────┬───────┘
-          │  solve problem
-          ▼
-   ┌──────────────┐
-   │  Solve Code  │
-   └──────┬───────┘
-          │  submit
-          ▼
-   ┌──────────────┐
-   │  ✅ Accepted │
-   └──────┬───────┘
-          │  detected
-          ▼
-   ┌──────────────┐
-   │   LeetHub    │
-   └──────┬───────┘
-          │  auto push
-          ▼
-   ┌────────────────────┐
-   │  GitHub Repository  │
-   └──────┬─────────────┘
-          │
-          ▼
-   ┌────────────────────┐
-   │ Continuous Progress │
-   └────────────────────┘
-```
-
-</div>
+<p align="center">
+  <img src="assets/workflow-diagram.svg" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 
