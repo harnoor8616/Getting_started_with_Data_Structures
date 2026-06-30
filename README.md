@@ -37,7 +37,7 @@
 <tr>
 <td>
 
-This repository serves as a structured record of my journey through **Data Structures & Algorithms** on **LeetCode**, built around a single philosophy: **master algorithmic patterns, not individual problems.** Rather than chasing problem counts, I focus on developing the ability to recognize recurring techniques, reason through unfamiliar challenges, and design efficient solutions from first principles.
+This repository serves as a structured record of my journey through **Data Structures &amp; Algorithms** on **LeetCode**, built around a single philosophy: **master algorithmic patterns, not individual problems.** Rather than chasing problem counts, I focus on developing the ability to recognize recurring techniques, reason through unfamiliar challenges, and design efficient solutions from first principles.
 
 - 🔄 **Automatic Synchronization** — Every accepted LeetCode submission is automatically synchronized to this repository through the **LeetHub** browser extension, ensuring that my progress is documented consistently without any manual intervention.
 
@@ -48,6 +48,11 @@ This repository serves as a structured record of my journey through **Data Struc
 - 🎯 **Understanding Before Optimization** — Every solution represents an effort to understand the underlying idea behind the algorithm, analyze trade-offs, and refine the approach, rather than simply arriving at an accepted submission.
 
 - 📈 **A Living Record of Growth** — This repository reflects my commitment to consistent practice, disciplined learning, and continuous improvement as I prepare for technical interviews, competitive programming, and real-world software engineering challenges.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 > ### *"Every expert was once a beginner who refused to quit."*
@@ -67,7 +72,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | | | |
 |:---:|:---:|:---:|
 | 🔥 **Automatic Sync**<br/>with LeetHub | 💻 **Modern C++**<br/>solutions | 🧠 **Pattern-Based**<br/>learning |
-| 🚀 **Interview**<br/>preparation | 📚 **Clean & Readable**<br/>code | ⚡ **Optimized**<br/>approaches |
+| 🚀 **Interview**<br/>preparation | 📚 **Clean &amp; Readable**<br/>code | ⚡ **Optimized**<br/>approaches |
 | 📈 **Continuous**<br/>learning | 🎯 **Consistency**<br/>driven | 🏆 **Public**<br/>archive |
 
 </div>
@@ -119,7 +124,7 @@ This repository serves as a structured record of my journey through **Data Struc
 </details>
 
 <details open>
-<summary><b>⬛ Trees & Hierarchical Structures</b></summary>
+<summary><b>⬛ Trees &amp; Hierarchical Structures</b></summary>
 <br/>
 
 ```
@@ -141,7 +146,7 @@ This repository serves as a structured record of my journey through **Data Struc
 </details>
 
 <details open>
-<summary><b>⬛ Recursive & Combinatorial</b></summary>
+<summary><b>⬛ Recursive &amp; Combinatorial</b></summary>
 <br/>
 
 ```
@@ -200,7 +205,7 @@ This repository serves as a structured record of my journey through **Data Struc
 ## ⚙️ Sync Workflow
 
 <p align="center">
-  <img src="assets/workflow-diagram.svg" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
+  <img src="Diagram.png" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
