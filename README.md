@@ -169,39 +169,6 @@ This repository is a **complete, structured archive** of my Data Structures & Al
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- REPOSITORY STRUCTURE -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🗂️ Repository Structure
-
-```
-📂 Getting_started_with_Data_Structures
-┃
-┣ 📂 Arrays
-┣ 📂 Strings
-┣ 📂 Binary Search
-┣ 📂 Two Pointers
-┣ 📂 Sliding Window
-┣ 📂 Stack
-┣ 📂 Queue
-┣ 📂 Linked List
-┣ 📂 Trees
-┣ 📂 BST
-┣ 📂 Heap
-┣ 📂 Graph
-┣ 📂 Dynamic Programming
-┣ 📂 Greedy
-┣ 📂 Backtracking
-┣ 📂 Bit Manipulation
-┣ 📂 Math
-┣ 📂 Simulation
-┣ 📂 Implementation
-┗ 📜 README.md
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- LANGUAGES & TOOLS -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -228,7 +195,7 @@ This repository is a **complete, structured archive** of my Data Structures & Al
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- WORKFLOW -->
@@ -271,69 +238,7 @@ This repository is a **complete, structured archive** of my Data Structures & Al
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- PROGRESS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 Progress By Pattern
-
-<div align="center">
-
-| Pattern | Progress |
-|:---|:---|
-| Simulation | ![](https://progress-bar.dev/72/?width=300&color=F83324) |
-| Arrays | ![](https://progress-bar.dev/85/?width=300&color=F83324) |
-| Strings | ![](https://progress-bar.dev/68/?width=300&color=F83324) |
-| Hashing | ![](https://progress-bar.dev/75/?width=300&color=F83324) |
-| Binary Search | ![](https://progress-bar.dev/60/?width=300&color=F83324) |
-| Trees | ![](https://progress-bar.dev/55/?width=300&color=F83324) |
-| Graphs | ![](https://progress-bar.dev/40/?width=300&color=F83324) |
-| Dynamic Programming | ![](https://progress-bar.dev/35/?width=300&color=F83324) |
-| Greedy | ![](https://progress-bar.dev/50/?width=300&color=F83324) |
-| Backtracking | ![](https://progress-bar.dev/45/?width=300&color=F83324) |
-| Bit Manipulation | ![](https://progress-bar.dev/30/?width=300&color=F83324) |
-
-<sub>* Percentages are indicative placeholders, updated periodically as solutions are added.</sub>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- REPOSITORY STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📈 Repository & GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harnoor8616&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=F83324&icon_color=F83324&text_color=FFFFFF&ring_color=F83324" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harnoor8616&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=F83324&text_color=FFFFFF" width="38%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harnoor8616&theme=radical&hide_border=true&background=000000&stroke=F83324&ring=F83324&fire=F83324&currStreakLabel=F83324" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harnoor8616&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=10&column=7" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harnoor8616&theme=react-dark&bg_color=000000&color=F83324&line=F83324&point=FFFFFF&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- CODING PRINCIPLES -->
@@ -355,7 +260,7 @@ This repository is a **complete, structured archive** of my Data Structures & Al
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- CONTACT ME -->
@@ -405,7 +310,6 @@ This repository is a **complete, structured archive** of my Data Structures & Al
 <div align="center">
 <sub>⭐ If this repository helps you on your DSA journey, consider giving it a star.</sub>
 </div>
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
