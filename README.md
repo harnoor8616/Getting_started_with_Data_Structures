@@ -1,22 +1,32 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- HERO / BANNER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:000000,50:F83324,100:000000&amp;height=260&amp;section=header&amp;text=Data%20Structures%20%26%20Algorithms&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20Pattern-Based%20LeetCode%20Journey%20in%20Modern%20C%2B%2B&amp;descAlignY=58&amp;descSize=18" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:F83324,100:000000&amp;height=260&amp;section=header&amp;text=Data%20Structures%20%26%20Algorithms&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20Pattern-Based%20LeetCode%20Journey%20in%20Modern%20C%2B%2B&amp;descAlignY=58&amp;descSize=18" />
+
 <br/>
+
 <a href="https://github.com/harnoor8616/Getting_started_with_Data_Structures">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F83324&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Mastering+Data+Structures+%26+Algorithms;Pattern-Based+Problem+Solving;LeetCode+Journey+%E2%9A%A1;Modern+C%2B%2B+Solutions;Interview+Preparation+%F0%9F%8E%AF;Consistency+Builds+Excellence;One+Problem+Every+Day;Think+%E2%80%A2+Solve+%E2%80%A2+Optimize+%E2%80%A2+Repeat" alt="Typing SVG" />
 </a>
+
 <br/><br/>
 
 <img src="https://img.shields.io/badge/-Getting__Started__With__Data__Structures-000000?style=for-the-badge&amp;labelColor=F83324&amp;color=000000" />
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=harnoor8616-dsa&amp;label=Visitors&amp;color=F83324&amp;style=for-the-badge" alt="Profile views" />
+
+
 </div>
+
 <br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=3&amp;section=header" width="100%"/>
-<!--
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ABOUT REPOSITORY -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -38,18 +48,13 @@ This repository serves as a structured record of my journey through **Data Struc
 - 🎯 **Understanding Before Optimization** — Every solution represents an effort to understand the underlying idea behind the algorithm, analyze trade-offs, and refine the approach, rather than simply arriving at an accepted submission.
 
 - 📈 **A Living Record of Growth** — This repository reflects my commitment to consistent practice, disciplined learning, and continuous improvement as I prepare for technical interviews, competitive programming, and real-world software engineering challenges.
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 > ### *"Every expert was once a beginner who refused to quit."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- REPOSITORY HIGHLIGHTS -->
@@ -67,7 +72,7 @@ This repository serves as a structured record of my journey through **Data Struc
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- PATTERN-BASED LEARNING ROADMAP -->
@@ -157,36 +162,36 @@ This repository serves as a structured record of my journey through **Data Struc
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- LANGUAGES & TOOLS -->
+<!-- LANGUAGES &amp; TOOLS -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages &amp; Tools
 
 <div align="center">
 
 **Primary Language**
 
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" height="60"/>
 
 <br/><br/>
 
 **Future Support**
 
-<img src="https://skillicons.dev/icons?i=py,java,js&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=py,java,js&amp;theme=dark" height="50"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=F83324"/>
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=F83324"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F83324"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=F83324"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=F83324"/>
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=leetcode&amp;logoColor=F83324"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=F83324"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=F83324"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- WORKFLOW -->
@@ -195,10 +200,10 @@ This repository serves as a structured record of my journey through **Data Struc
 ## ⚙️ Sync Workflow
 
 <p align="center">
-  <img src="Diagram.png" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
+  <img src="assets/workflow-diagram.svg" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- CODING PRINCIPLES -->
@@ -220,7 +225,7 @@ This repository serves as a structured record of my journey through **Data Struc
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- CONTACT ME -->
@@ -229,24 +234,24 @@ This repository serves as a structured record of my journey through **Data Struc
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harnoorkaurdhiman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harnoorkaurdhiman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
   </a>
 
   <a href="https://instagram.com/harnoor_8616">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/harnoorkaurdhiman/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/u/harnoor_8616/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=%23d16c06" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=leetcode&amp;logoColor=%23d16c06" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- QUOTE SECTION -->
@@ -265,7 +270,7 @@ This repository serves as a structured record of my journey through **Data Struc
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F83324,100:000000&height=180&section=footer&text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:F83324,100:000000&amp;height=180&amp;section=footer&amp;text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&amp;fontSize=24&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=80"/>
 
 <div align="center">
 <sub>⭐ If this repository helps you on your DSA journey, consider giving it a star.</sub>
