@@ -200,7 +200,7 @@ This repository serves as a structured record of my journey through **Data Struc
 ## ⚙️ Sync Workflow
 
 <p align="center">
-  <img src="assets/workflow-diagram.svg" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
+  <img src="Diagram.png" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
