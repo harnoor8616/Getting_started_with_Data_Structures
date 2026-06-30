@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F83324,100:000000&height=260&section=header&text=Data%20Structures%20%26%20Algorithms&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=A%20Pattern-Based%20LeetCode%20Journey%20in%20Modern%20C%2B%2B&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:F83324,100:000000&amp;height=260&amp;section=header&amp;text=Data%20Structures%20%26%20Algorithms&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20Pattern-Based%20LeetCode%20Journey%20in%20Modern%20C%2B%2B&amp;descAlignY=58&amp;descSize=18" />
+
 
 <br/>
 
