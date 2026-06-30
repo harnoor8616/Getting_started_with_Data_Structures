@@ -286,8 +286,14 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Array
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
