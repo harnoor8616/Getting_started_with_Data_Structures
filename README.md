@@ -1,36 +1,22 @@
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- HERO / BANNER SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:F83324,100:000000&amp;height=260&amp;section=header&amp;text=Data%20Structures%20%26%20Algorithms&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20Pattern-Based%20LeetCode%20Journey%20in%20Modern%20C%2B%2B&amp;descAlignY=58&amp;descSize=18" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:000000,50:F83324,100:000000&amp;height=260&amp;section=header&amp;text=Data%20Structures%20%26%20Algorithms&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=A%20Pattern-Based%20LeetCode%20Journey%20in%20Modern%20C%2B%2B&amp;descAlignY=58&amp;descSize=18" />
 <br/>
-
 <a href="https://github.com/harnoor8616/Getting_started_with_Data_Structures">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F83324&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Mastering+Data+Structures+%26+Algorithms;Pattern-Based+Problem+Solving;LeetCode+Journey+%E2%9A%A1;Modern+C%2B%2B+Solutions;Interview+Preparation+%F0%9F%8E%AF;Consistency+Builds+Excellence;One+Problem+Every+Day;Think+%E2%80%A2+Solve+%E2%80%A2+Optimize+%E2%80%A2+Repeat" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/-Getting__Started__With__Data__Structures-000000?style=for-the-badge&amp;labelColor=F83324&amp;color=000000" />
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=harnoor8616-dsa&amp;label=Visitors&amp;color=F83324&amp;style=for-the-badge" alt="Profile views" />
-
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=3&amp;section=header" width="100%"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=3&section=header" width="100%"/>
-
+<!--
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ABOUT REPOSITORY -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
