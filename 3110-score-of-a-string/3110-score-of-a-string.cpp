@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int scoreOfString(string s) {
+    int a,b;
+    int sum=0;
+    for(int i=0;i<s.length()-1;i++)
+    {
+        a=s[i];
+        b=s[i+1];
+        sum=sum+abs(a-b);
+    }
+    return sum;
+    }
+};
