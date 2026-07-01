@@ -296,12 +296,14 @@ This repository serves as a structured record of my journey through **Data Struc
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1920-build-array-from-permutation) |
@@ -317,4 +319,8 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
