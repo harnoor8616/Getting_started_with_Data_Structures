@@ -288,6 +288,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
 | ------- |
@@ -304,6 +305,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [1929-concatenation-of-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Matrix
 |  |
 | ------- |
