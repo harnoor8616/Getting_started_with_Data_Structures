@@ -277,13 +277,11 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2235-add-two-integers) |
-
 ## String
 |  |
 | ------- |
@@ -294,22 +292,22 @@ This repository serves as a structured record of my journey through **Data Struc
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/3110-score-of-a-string) |
-
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
-
 ## Array
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1920-build-array-from-permutation) |
@@ -317,25 +315,27 @@ This repository serves as a structured record of my journey through **Data Struc
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
-
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1672-richest-customer-wealth) |
-
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1480-running-sum-of-1d-array) |
-
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0844-backspace-string-compare) |
-
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
