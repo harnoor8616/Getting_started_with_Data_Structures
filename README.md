@@ -277,9 +277,6 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-|---------- |
-
-
 ## Math
 |  |
 | ------- |
@@ -313,6 +310,7 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
+| [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1672-richest-customer-wealth) |
@@ -324,6 +322,7 @@ This repository serves as a structured record of my journey through **Data Struc
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
