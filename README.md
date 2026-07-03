@@ -277,14 +277,10 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
-<br/>
-
-
-
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1041-robot-bounded-in-circle) |
 | [2235-add-two-integers](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2235-add-two-integers) |
@@ -342,10 +338,15 @@ This repository serves as a structured record of my journey through **Data Struc
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
