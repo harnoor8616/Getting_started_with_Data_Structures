@@ -276,8 +276,8 @@ This repository serves as a structured record of my journey through **Data Struc
 <sub>⭐ If this repository helps you on your DSA journey, consider giving it a star.</sub>
 </div>
 <!---LeetCode Topics Start-->
-# LeetCode Topics
 ## 📬 Leetcode Topics
+
 |  |
 | ------- |
 ## Math
