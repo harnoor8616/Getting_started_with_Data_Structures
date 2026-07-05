@@ -279,10 +279,6 @@ This repository serves as a structured record of my journey through **Data Struc
 
 ## 📬 Leetcode Topics
 
-|  |
-| ------- |
-<br>
-
 ## Math
 |  |
 | ------- |
