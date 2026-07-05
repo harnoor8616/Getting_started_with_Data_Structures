@@ -276,22 +276,24 @@ This repository serves as a structured record of my journey through **Data Struc
 <sub>⭐ If this repository helps you on your DSA journey, consider giving it a star.</sub>
 </div>
 <!---LeetCode Topics Start-->
-### 📬 Leetcode Topics
-
+# LeetCode Topics
+## 📬 Leetcode Topics
+|  |
+| ------- |
 <br>
-<br>
-
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0415-add-strings) |
 | [1041-robot-bounded-in-circle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1041-robot-bounded-in-circle) |
 | [2235-add-two-integers](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0844-backspace-string-compare) |
 | [1041-robot-bounded-in-circle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1041-robot-bounded-in-circle) |
@@ -303,6 +305,7 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
