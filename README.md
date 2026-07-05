@@ -317,6 +317,7 @@ This repository serves as a structured record of my journey through **Data Struc
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
@@ -356,4 +357,8 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
