@@ -277,7 +277,6 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -316,6 +315,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | ------- |
 | [0036-valid-sudoku](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
+| [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
@@ -362,4 +362,8 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
