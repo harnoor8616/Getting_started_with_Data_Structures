@@ -276,9 +276,10 @@ This repository serves as a structured record of my journey through **Data Struc
 <sub>⭐ If this repository helps you on your DSA journey, consider giving it a star.</sub>
 </div>
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## 📬 Leetcode Topics
-
 |  |
+| ------- |
 | ------- |
 ## Math
 |  |
@@ -318,6 +319,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | ------- |
 | [0036-valid-sudoku](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
+| [0485-max-consecutive-ones](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
