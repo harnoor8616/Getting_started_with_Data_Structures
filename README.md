@@ -277,7 +277,6 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -314,6 +313,7 @@ This repository serves as a structured record of my journey through **Data Struc
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
 | [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
@@ -371,6 +371,7 @@ This repository serves as a structured record of my journey through **Data Struc
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
 
