@@ -277,7 +277,6 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -319,6 +318,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1480-running-sum-of-1d-array) |
@@ -367,6 +367,10 @@ This repository serves as a structured record of my journey through **Data Struc
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
