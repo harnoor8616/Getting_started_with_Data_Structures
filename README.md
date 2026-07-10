@@ -383,14 +383,15 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 1 | 1 | 0 | 0 |
+| LeetCode | 2 | 2 | 0 | 0 |
 | GeeksforGeeks | 1 | 0 | 1 | 0 |
-| **Total** | **2** | **1** | **1** | **0** |
+| **Total** | **3** | **2** | **1** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
-| 2 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
+| 1 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/35_SearchInsertPosition.cpp) |
+| 2 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
+| 3 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
 <!-- COMMITDSA_END -->
