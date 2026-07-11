@@ -11,8 +11,6 @@ int countFreq(int arr[], int n, int target) {
 
     int s = 0, e = n - 1;
     int first = -1, last = -1;
-
-    // Find first occurrence
     while (s <= e) {
 
         int m = s + (e - s) / 2;
