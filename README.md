@@ -387,11 +387,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 4 | 3 | 1 | 0 |
-| GeeksforGeeks | 3 | 2 | 1 | 0 |
-| **Total** | **7** | **5** | **2** | **0** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 4 | 3 | 1 | 0 | - |
+| GeeksforGeeks | 4 | 2 | 1 | 0 | 1 |
+| **Total** | **8** | **5** | **2** | **0** | **1** |
 
 ## Solved Problems
 
@@ -404,4 +404,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 5 | [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountTheZeros.cpp) |
 | 6 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_NumberOfOccurrence.cpp) |
 | 7 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
+| 8 | [Cube Root](https://practice.geeksforgeeks.org/problems/cube-root-of-a-number0915/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CubeRoot.cpp) |
 <!-- COMMITDSA_END -->
