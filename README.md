@@ -277,12 +277,12 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0415-add-strings) |
 | [1041-robot-bounded-in-circle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/1041-robot-bounded-in-circle) |
@@ -382,6 +382,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0035-search-insert-position](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
