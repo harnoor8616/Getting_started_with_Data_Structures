@@ -277,7 +277,6 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -319,6 +318,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0035-search-insert-position](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
@@ -378,6 +378,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
