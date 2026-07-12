@@ -390,9 +390,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 4 | 3 | 1 | 0 | - |
+| LeetCode | 5 | 3 | 2 | 0 | - |
 | GeeksforGeeks | 4 | 2 | 1 | 0 | 1 |
-| **Total** | **8** | **5** | **2** | **0** | **1** |
+| **Total** | **9** | **5** | **3** | **0** | **1** |
 
 ## Solved Problems
 
@@ -402,8 +402,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/69_Sqrtx.cpp) |
 | 3 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
 | 4 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 5 | [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountTheZeros.cpp) |
-| 6 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_NumberOfOccurrence.cpp) |
-| 7 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
-| 8 | [Cube Root](https://practice.geeksforgeeks.org/problems/cube-root-of-a-number0915/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CubeRoot.cpp) |
+| 5 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/852_PeakIndexInAMountainArray.cpp) |
+| 6 | [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountTheZeros.cpp) |
+| 7 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_NumberOfOccurrence.cpp) |
+| 8 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
+| 9 | [Cube Root](https://practice.geeksforgeeks.org/problems/cube-root-of-a-number0915/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CubeRoot.cpp) |
 <!-- COMMITDSA_END -->
