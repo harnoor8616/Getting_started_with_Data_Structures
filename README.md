@@ -399,9 +399,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 8 | 4 | 4 | 0 | - |
+| LeetCode | 9 | 4 | 5 | 0 | - |
 | GeeksforGeeks | 4 | 2 | 1 | 0 | 1 |
-| **Total** | **12** | **6** | **5** | **0** | **1** |
+| **Total** | **13** | **6** | **6** | **0** | **1** |
 
 ## Solved Problems
 
@@ -414,9 +414,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 5 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/153_FindMinimumInRotatedSortedArray.cpp) |
 | 6 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/33_SearchInRotatedSortedArray.cpp) |
 | 7 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 8 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/852_PeakIndexInAMountainArray.cpp) |
-| 9 | [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountTheZeros.cpp) |
-| 10 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_NumberOfOccurrence.cpp) |
-| 11 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
-| 12 | [Cube Root](https://practice.geeksforgeeks.org/problems/cube-root-of-a-number0915/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CubeRoot.cpp) |
+| 8 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/81_SearchInRotatedSortedArrayII.cpp) |
+| 9 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/852_PeakIndexInAMountainArray.cpp) |
+| 10 | [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountTheZeros.cpp) |
+| 11 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_NumberOfOccurrence.cpp) |
+| 12 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
+| 13 | [Cube Root](https://practice.geeksforgeeks.org/problems/cube-root-of-a-number0915/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CubeRoot.cpp) |
 <!-- COMMITDSA_END -->
