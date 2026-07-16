@@ -277,7 +277,6 @@ This repository serves as a structured record of my journey through **Data Struc
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -328,6 +327,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0485-max-consecutive-ones](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -389,6 +389,7 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
 
