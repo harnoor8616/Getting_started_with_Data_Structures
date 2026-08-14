@@ -398,42 +398,6 @@ This repository serves as a structured record of my journey through **Data Struc
 | [0852-peak-index-in-a-mountain-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
 
-<!-- COMMITDSA_START -->
-# DSA Portfolio
-
-Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
-
-## Statistics
-
-| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
-| --- | --- | --- | --- | --- | --- |
-| LeetCode | 13 | 5 | 7 | 1 | - |
-| GeeksforGeeks | 4 | 2 | 1 | 0 | 1 |
-| **Total** | **17** | **7** | **8** | **1** | **1** |
-
-## Solved Problems
-
-| # | Problem | Platform | Difficulty | Language | Code |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/35_SearchInsertPosition.cpp) |
-| 2 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/367_ValidPerfectSquare.cpp) |
-| 3 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/69_Sqrtx.cpp) |
-| 4 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/704_BinarySearch.cpp) |
-| 5 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/744_FindSmallestLetterGreaterThanTarget.cpp) |
-| 6 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/153_FindMinimumInRotatedSortedArray.cpp) |
-| 7 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/162_FindPeakElement.cpp) |
-| 8 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2785_SortVowelsInAString.cpp) |
-| 9 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/33_SearchInRotatedSortedArray.cpp) |
-| 10 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) |
-| 11 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/81_SearchInRotatedSortedArrayII.cpp) |
-| 12 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/852_PeakIndexInAMountainArray.cpp) |
-| 13 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/154_FindMinimumInRotatedSortedArrayII.cpp) |
-| 14 | [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountTheZeros.cpp) |
-| 15 | [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_NumberOfOccurrence.cpp) |
-| 16 | [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSwapsToSort.cpp) |
-| 17 | [Cube Root](https://practice.geeksforgeeks.org/problems/cube-root-of-a-number0915/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CubeRoot.cpp) |
-<!-- COMMITDSA_END -->
-
 | # | Problem | Platform | Difficulty | Date Solved | Time |
 |---|---------|----------|------------|-------------|------|
 | 18 | [BFS of graph](./GeeksForGeeks/Easy/BFS%20of%20graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 14 Aug 2026 | 05:23 pm |
