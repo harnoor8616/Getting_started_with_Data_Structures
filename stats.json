@@ -193,23 +193,25 @@
     "solved": 33
   },
   "syncedProblems": {
-    "GeeksForGeeks_BFS_of_graph": true
+    "GeeksForGeeks_BFS_of_graph": true,
+    "GeeksForGeeks_Indexes_of_Subarray_Sum": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "BFS of graph"
+    "BFS of graph",
+    "Indexes of Subarray Sum"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-14",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-08-14": 1
+    "2026-08-14": 2
   }
 }

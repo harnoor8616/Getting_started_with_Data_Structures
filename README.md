@@ -1,6 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- HERO / BANNER SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F83324,100:000000&height=180&section=header&text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
@@ -27,11 +27,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=3&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- ABOUT REPOSITORY -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## 📖 About This Repository
+## ð About This Repository
 
 <table align="center">
 <tr>
@@ -39,15 +39,15 @@
 
 This repository serves as a structured record of my journey through **Data Structures &amp; Algorithms** on **LeetCode**, built around a single philosophy: **master algorithmic patterns, not individual problems.** Rather than chasing problem counts, I focus on developing the ability to recognize recurring techniques, reason through unfamiliar challenges, and design efficient solutions from first principles.
 
-- 🔄 **Automatic Synchronization** — Every accepted LeetCode submission is automatically synchronized to this repository through the **LeetHub** browser extension, ensuring that my progress is documented consistently without any manual intervention.
+- ð **Automatic Synchronization** â Every accepted LeetCode submission is automatically synchronized to this repository through the **LeetHub** browser extension, ensuring that my progress is documented consistently without any manual intervention.
 
-- 💠 **Modern C++** — All solutions are implemented in modern, standards-compliant **C++**, with an emphasis on clean architecture, readability, maintainability, and algorithmic efficiency.
+- ð  **Modern C++** â All solutions are implemented in modern, standards-compliant **C++**, with an emphasis on clean architecture, readability, maintainability, and algorithmic efficiency.
 
-- 🧩 **Pattern-Oriented Learning** — Problems are approached through a structured, pattern-based roadmap, allowing me to build transferable intuition across concepts such as Two Pointers, Sliding Window, Graph Traversal, Dynamic Programming, and many others.
+- ð§© **Pattern-Oriented Learning** â Problems are approached through a structured, pattern-based roadmap, allowing me to build transferable intuition across concepts such as Two Pointers, Sliding Window, Graph Traversal, Dynamic Programming, and many others.
 
-- 🎯 **Understanding Before Optimization** — Every solution represents an effort to understand the underlying idea behind the algorithm, analyze trade-offs, and refine the approach, rather than simply arriving at an accepted submission.
+- ð¯ **Understanding Before Optimization** â Every solution represents an effort to understand the underlying idea behind the algorithm, analyze trade-offs, and refine the approach, rather than simply arriving at an accepted submission.
 
-- 📈 **A Living Record of Growth** — This repository reflects my commitment to consistent practice, disciplined learning, and continuous improvement as I prepare for technical interviews, competitive programming, and real-world software engineering challenges.
+- ð **A Living Record of Growth** â This repository reflects my commitment to consistent practice, disciplined learning, and continuous improvement as I prepare for technical interviews, competitive programming, and real-world software engineering challenges.
 <div align="center">
 
 > ### *"Every expert was once a beginner who refused to quit."*
@@ -56,29 +56,29 @@ This repository serves as a structured record of my journey through **Data Struc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- REPOSITORY HIGHLIGHTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## ✨ Repository Highlights
+## â¨ Repository Highlights
 
 <div align="center">
 
 | | | |
 |:---:|:---:|:---:|
-| 🔥 **Automatic Sync**<br/>with LeetHub | 💻 **Modern C++**<br/>solutions | 🧠 **Pattern-Based**<br/>learning |
-| 🚀 **Interview**<br/>preparation | 📚 **Clean &amp; Readable**<br/>code | ⚡ **Optimized**<br/>approaches |
-| 📈 **Continuous**<br/>learning | 🎯 **Consistency**<br/>driven | 🏆 **Public**<br/>archive |
+| ð¥ **Automatic Sync**<br/>with LeetHub | ð» **Modern C++**<br/>solutions | ð§  **Pattern-Based**<br/>learning |
+| ð **Interview**<br/>preparation | ð **Clean &amp; Readable**<br/>code | â¡ **Optimized**<br/>approaches |
+| ð **Continuous**<br/>learning | ð¯ **Consistency**<br/>driven | ð **Public**<br/>archive |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- PATTERN-BASED LEARNING ROADMAP -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## 🗺️ Pattern-Based Learning Roadmap
+## ðºï¸ Pattern-Based Learning Roadmap
 
 <div align="center">
 <sub>The roadmap below outlines the complete progression of patterns covered in this repository.</sub>
@@ -87,88 +87,88 @@ This repository serves as a structured record of my journey through **Data Struc
 <br/>
 
 <details open>
-<summary><b>🟥 Foundations</b></summary>
+<summary><b>ð¥ Foundations</b></summary>
 <br/>
 
 ```
-✔ Simulation / Implementation     ✔ Arrays            ✔ Strings
-✔ Hashing                         ✔ Sorting           ✔ Binary Search
+â Simulation / Implementation     â Arrays            â Strings
+â Hashing                         â Sorting           â Binary Search
 ```
 
 </details>
 
 <details open>
-<summary><b>⬛ Two-Pointer Family</b></summary>
+<summary><b>â¬ Two-Pointer Family</b></summary>
 <br/>
 
 ```
-✔ Two Pointers     ✔ Sliding Window     ✔ Prefix Sum     ✔ Greedy
+â Two Pointers     â Sliding Window     â Prefix Sum     â Greedy
 ```
 
 </details>
 
 <details open>
-<summary><b>🟥 Linear Data Structures</b></summary>
+<summary><b>ð¥ Linear Data Structures</b></summary>
 <br/>
 
 ```
-✔ Stack             ✔ Queue              ✔ Linked List
-✔ Monotonic Stack    ✔ Monotonic Queue
+â Stack             â Queue              â Linked List
+â Monotonic Stack    â Monotonic Queue
 ```
 
 </details>
 
 <details open>
-<summary><b>⬛ Trees &amp; Hierarchical Structures</b></summary>
+<summary><b>â¬ Trees &amp; Hierarchical Structures</b></summary>
 <br/>
 
 ```
-✔ Trees     ✔ Binary Search Trees     ✔ Trie     ✔ Heap / Priority Queue
-✔ Segment Tree     ✔ Fenwick Tree
+â Trees     â Binary Search Trees     â Trie     â Heap / Priority Queue
+â Segment Tree     â Fenwick Tree
 ```
 
 </details>
 
 <details open>
-<summary><b>🟥 Graph Theory</b></summary>
+<summary><b>ð¥ Graph Theory</b></summary>
 <br/>
 
 ```
-✔ Graph     ✔ DFS     ✔ BFS     ✔ Topological Sort
-✔ Union Find     ✔ Advanced Graph Algorithms
+â Graph     â DFS     â BFS     â Topological Sort
+â Union Find     â Advanced Graph Algorithms
 ```
 
 </details>
 
 <details open>
-<summary><b>⬛ Recursive &amp; Combinatorial</b></summary>
+<summary><b>â¬ Recursive &amp; Combinatorial</b></summary>
 <br/>
 
 ```
-✔ Recursion     ✔ Backtracking     ✔ Dynamic Programming
+â Recursion     â Backtracking     â Dynamic Programming
 ```
 
 </details>
 
 <details open>
-<summary><b>🟥 Specialized Patterns</b></summary>
+<summary><b>ð¥ Specialized Patterns</b></summary>
 <br/>
 
 ```
-✔ Bit Manipulation     ✔ Matrix             ✔ Intervals
-✔ Sweep Line           ✔ Binary Lifting     ✔ Number Theory
-✔ Game Theory          ✔ Design Problems
+â Bit Manipulation     â Matrix             â Intervals
+â Sweep Line           â Binary Lifting     â Number Theory
+â Game Theory          â Design Problems
 ```
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- LANGUAGES &amp; TOOLS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## 🛠️ Languages &amp; Tools
+## ð ï¸ Languages &amp; Tools
 
 <div align="center">
 
@@ -193,11 +193,11 @@ This repository serves as a structured record of my journey through **Data Struc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- WORKFLOW -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## ⚙️ Sync Workflow
+## âï¸ Sync Workflow
 
 <p align="center">
   <img src="Diagram.png" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
@@ -205,33 +205,33 @@ This repository serves as a structured record of my journey through **Data Struc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- CODING PRINCIPLES -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## 🧭 Coding Principles
+## ð§­ Coding Principles
 
 <div align="center">
 
 | Principle | Description |
 |:---|:---|
-| ✔️ **Clean Code** | Every solution favors clarity over cleverness |
-| ✔️ **Readable Code** | Consistent naming, structure, and formatting |
-| ✔️ **Standard C++** | Written using modern, idiomatic C++ practices |
-| ✔️ **Efficient Algorithms** | Time and space complexity considered for every solution |
-| ✔️ **Interview Ready** | Patterns are practiced the way they'd be explained live |
-| ✔️ **Well Structured** | Organized by pattern, not by submission date |
-| ✔️ **Optimized Solutions** | Brute-force first, then refined to optimal |
+| âï¸ **Clean Code** | Every solution favors clarity over cleverness |
+| âï¸ **Readable Code** | Consistent naming, structure, and formatting |
+| âï¸ **Standard C++** | Written using modern, idiomatic C++ practices |
+| âï¸ **Efficient Algorithms** | Time and space complexity considered for every solution |
+| âï¸ **Interview Ready** | Patterns are practiced the way they'd be explained live |
+| âï¸ **Well Structured** | Organized by pattern, not by submission date |
+| âï¸ **Optimized Solutions** | Brute-force first, then refined to optimal |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- CONTACT ME -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
-## 📬 Contact Me
+## ð¬ Contact Me
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harnoorkaurdhiman@gmail.com" target="_blank">
@@ -253,27 +253,27 @@ This repository serves as a structured record of my journey through **Data Struc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F83324&amp;height=2&amp;section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- QUOTE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
 <div align="center">
 
-### 💭
+### ð­
 
 > *"An algorithm must be seen to be believed."*
-> **— Donald Knuth**
+> **â Donald Knuth**
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 <!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:F83324,100:000000&amp;height=180&amp;section=footer&amp;text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&amp;fontSize=24&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=80"/>
 
 <div align="center">
-<sub>⭐ If this repository helps you on your DSA journey, consider giving it a star.</sub>
+<sub>â­ If this repository helps you on your DSA journey, consider giving it a star.</sub>
 </div>
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -437,3 +437,4 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | # | Problem | Platform | Difficulty | Date Solved | Time |
 |---|---------|----------|------------|-------------|------|
 | 18 | [BFS of graph](./GeeksForGeeks/Easy/BFS%20of%20graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 14 Aug 2026 | 05:23 pm |
+| 19 | [Indexes of Subarray Sum](./GeeksForGeeks/Medium/Indexes%20of%20Subarray%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Medium | 14 Aug 2026 | 11:07 pm |
