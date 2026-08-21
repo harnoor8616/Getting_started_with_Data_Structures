@@ -196,25 +196,27 @@
     "GeeksForGeeks_BFS_of_graph": true,
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "GeeksForGeeks_Segregate_0s_and_1s": true,
-    "GeeksForGeeks_Pair_With_Difference": true
+    "GeeksForGeeks_Pair_With_Difference": true,
+    "GeeksForGeeks_Product_Pair": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Pair With Difference"
+    "Product Pair"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-21",
   "maxStreak": 2,
   "activityHistory": {
     "2026-08-14": 2,
     "2026-08-17": 1,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-21": 1
   }
 }
