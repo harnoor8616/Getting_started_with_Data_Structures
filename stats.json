@@ -197,26 +197,28 @@
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "GeeksForGeeks_Segregate_0s_and_1s": true,
     "GeeksForGeeks_Pair_With_Difference": true,
-    "GeeksForGeeks_Product_Pair": true
+    "GeeksForGeeks_Product_Pair": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Product Pair"
+    "Product Pair",
+    "Remove Duplicates from Sorted Array"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-21",
   "maxStreak": 2,
   "activityHistory": {
     "2026-08-14": 2,
     "2026-08-17": 1,
     "2026-08-18": 1,
-    "2026-08-21": 1
+    "2026-08-21": 2
   }
 }
