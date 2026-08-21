@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F83324,100:000000&height=180&section=header&text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F83324,100:000000&height=180&section=header&text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
 
 <br/>
 
@@ -19,28 +20,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=3&section=header" width="100%"/>
 
-
-## ð About This Repository
+## 📖 About This Repository
 
 <table align="center">
 <tr>
 <td width="80%">
 
-This repository documents my **Data Structures & Algorithms** journey on **LeetCode**, built on one core philosophy: **master algorithmic patterns, not individual problems.**
+This repository documents my **Data Structures & Algorithms** journey on **LeetCode**, built around one core philosophy:
+
+> **Master algorithmic patterns, not individual problems.**
 
 Rather than chasing problem counts, I focus on recognizing recurring techniques, reasoning through unfamiliar challenges, and designing efficient solutions from first principles.
 
 ### Core Principles
 
-ð **Automatic Synchronization** â Every accepted LeetCode submission syncs automatically via **LeetHub**, ensuring consistent documentation without manual effort.
+🔄 **Automatic Synchronization** — Every accepted LeetCode submission is automatically synchronized using **LeetHub**, keeping the repository updated without manual effort.
 
-âï¸ **Modern C++** â All solutions use clean, standards-compliant C++17+ with emphasis on readability, maintainability, and algorithmic efficiency.
+⚙️ **Modern C++** — Solutions are written using clean, standards-compliant **C++17+**, with emphasis on readability, maintainability, and algorithmic efficiency.
 
-ð¯ **Pattern-Oriented Learning** â Structured progression through Two Pointers, Sliding Window, Graph Traversal, Dynamic Programming, and moreâbuilding transferable intuition across domains.
+🎯 **Pattern-Oriented Learning** — Problems are organized around reusable patterns such as Two Pointers, Sliding Window, Binary Search, Graph Traversal, Dynamic Programming, and more.
 
-ð­ **Understanding Over Optimization** â Every solution reflects genuine comprehension of the underlying algorithm, trade-offs analyzed, and approaches refinedânot just accepting submissions.
+💡 **Understanding Over Optimization** — The goal is not simply to get an accepted submission. Each solution focuses on understanding the underlying algorithm, analyzing trade-offs, and improving the approach.
 
-ð **A Living Record of Growth** â This repository reflects commitment to consistent practice, disciplined learning, and continuous improvement as I prepare for technical interviews and real-world engineering challenges.
+📈 **A Living Record of Growth** — This repository represents consistent practice, disciplined learning, and continuous improvement while preparing for technical interviews and real-world software engineering challenges.
 
 <div align="center">
 
@@ -54,101 +56,118 @@ Rather than chasing problem counts, I focus on recognizing recurring techniques,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 
-
-## ð Repository Highlights
+## 🚀 Repository Highlights
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| ð **Automatic Sync**<br/>with LeetHub | â¡ **Modern C++**<br/>Solutions | ð¯ **Pattern-Based**<br/>Learning |
-| ð¤ **Interview**<br/>Preparation | â¨ **Clean & Readable**<br/>Code | ð¥ **Optimized**<br/>Approaches |
-| ð **Continuous**<br/>Learning | ðª **Consistency**<br/>Driven | ð **Public**<br/>Archive |
+|                                        |                                 |                                   |
+| :------------------------------------: | :-----------------------------: | :-------------------------------: |
+| 🔗 **Automatic Sync**<br/>with LeetHub |  ⚡ **Modern C++**<br/>Solutions | 🎯 **Pattern-Based**<br/>Learning |
+|    🎤 **Interview**<br/>Preparation    | ✨ **Clean & Readable**<br/>Code |  🔥 **Optimized**<br/>Approaches  |
+|     📚 **Continuous**<br/>Learning     |  💪 **Consistency**<br/>Driven  |     🌐 **Public**<br/>Archive     |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
-## ð Pattern-Based Learning Roadmap
+## 📚 Pattern-Based Learning Roadmap
 
 <div align="center">
-<sub><b>Complete progression of patterns covered in this repository</b></sub>
+<sub><b>Structured progression of algorithmic patterns covered in this repository</b></sub>
 </div>
 
 <br/>
 
-### ðï¸ **Tier 1: Foundations**
-```
-ð Simulation/Implementation    ð Arrays            ð¤ Strings
-#ï¸â£ Hashing                      ð Sorting           ð Binary Search
+### 🏗️ **Tier 1: Foundations**
+
+```text
+📝 Simulation / Implementation    📊 Arrays
+🔤 Strings                        #️⃣ Hashing
+🔀 Sorting                        🔍 Binary Search
 ```
 
-### ð **Tier 2: Two-Pointer Family**
-```
-ð Two Pointers        ðª Sliding Window      â Prefix Sum        ð¯ Greedy
+### 🔀 **Tier 2: Two-Pointer Family**
+
+```text
+👉 Two Pointers        🪟 Sliding Window
+➕ Prefix Sum           🎯 Greedy
 ```
 
-### ð¦ **Tier 3: Linear Data Structures**
-```
-ð Stack              ð Queue               ð Linked List
-âï¸ Monotonic Stack    ð Monotonic Queue
+### 📦 **Tier 3: Linear Data Structures**
+
+```text
+📚 Stack               📋 Queue
+🔗 Linked List         ⚙️ Monotonic Stack
+📊 Monotonic Queue
 ```
 
-### ð³ **Tier 4: Trees & Hierarchical Structures**
-```
-ð Trees              ð Binary Search Trees    ð¤ Trie
-â°ï¸ Heap/Priority Queue    ð Segment Tree         ð² Fenwick Tree
+### 🌳 **Tier 4: Trees & Hierarchical Structures**
+
+```text
+🎋 Trees               🔎 Binary Search Trees
+🔤 Trie                ⛰ Heap / Priority Queue
+📊 Segment Tree        🌲 Fenwick Tree
 ```
 
-### ð¸ï¸ **Tier 5: Graph Theory**
-```
-ð Graph Basics       ð DFS                ð BFS
-ð Topological Sort   ð Union Find         ð« Advanced Algorithms
+### 🕸️ **Tier 5: Graph Theory**
+
+```text
+🔗 Graph Basics        🔍 DFS
+🌊 BFS                 🔀 Topological Sort
+🔐 Union Find          💫 Advanced Graph Algorithms
 ```
 
-### ð **Tier 6: Recursive & Combinatorial**
-```
-ð Recursion          ð Backtracking       ð Dynamic Programming
+### 🔄 **Tier 6: Recursive & Combinatorial**
+
+```text
+📞 Recursion           ↩️ Backtracking
+📊 Dynamic Programming
 ```
 
-### â¡ **Tier 7: Specialized Patterns**
-```
-ð¢ Bit Manipulation   ð Matrix             ð Intervals
-ð§¹ Sweep Line         ð Binary Lifting     ð¬ Number Theory
-ð® Game Theory        ðï¸ Design Problems
+### ⚡ **Tier 7: Specialized Patterns**
+
+```text
+🔢 Bit Manipulation    📋 Matrix
+📏 Intervals           🧹 Sweep Line
+🚀 Binary Lifting      🔬 Number Theory
+🎮 Game Theory         🏗️ Design Problems
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
 
-
-## ð ï¸ Sync Workflow
+## 🛠️ Sync Workflow
 
 <p align="center">
-  <img src="Diagram.png" alt="LeetCode to GitHub automatic sync workflow" width="700"/>
+  <img src="Diagram.png" alt="LeetCode to GitHub automatic synchronization workflow" width="700"/>
+</p>
+
+<p align="center">
+  <sub>
+    LeetCode → Accepted Submission → LeetHub → GitHub Repository
+  </sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
-## ð Coding Principles
+## 🏆 Coding Principles
 
 <div align="center">
 
-| Principle | Description |
-|:---|:---|
-| â¨ **Clean Code** | Every solution prioritizes clarity over cleverness |
-| ð **Readable Code** | Consistent naming, structure, and formatting throughout |
-| ð¯ **Standard C++** | Modern, idiomatic C++17+ practices |
-| â¡ **Efficient Algorithms** | Time and space complexity analyzed for every solution |
-| ð¤ **Interview Ready** | Patterns practiced as they'd be explained live |
-| ðï¸ **Well Structured** | Organized by pattern, not submission date |
-| ð¥ **Optimized Solutions** | Brute-force â refined â optimal progression |
+| Principle                  | Description                                                   |
+| :------------------------- | :------------------------------------------------------------ |
+| ✨ **Clean Code**           | Prioritize clarity and maintainability over cleverness        |
+| 📖 **Readable Code**       | Consistent naming, structure, and formatting                  |
+| 🎯 **Standard C++**        | Modern, idiomatic C++17+ practices                            |
+| ⚡ **Efficient Algorithms** | Analyze time and space complexity for every solution          |
+| 🎤 **Interview Ready**     | Practice patterns that can be clearly explained in interviews |
+| 🏗️ **Well Structured**    | Organize solutions around algorithmic patterns                |
+| 🔥 **Optimized Solutions** | Progress from brute force → better → optimal approaches       |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
-
-## ð» Languages & Tools
+## 💻 Languages & Tools
 
 <div align="center">
 
@@ -169,45 +188,49 @@ Rather than chasing problem counts, I focus on recognizing recurring techniques,
 
 </div>
 
-<img src="https://capsule-render.verapp.com/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
-## ð Connect With Me
+## 📞 Connect With Me
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harnoorkaurdhiman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 
-  <a href="https://instagram.com/harnoor_8616" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=harnoorkaurdhiman@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/harnoorkaurdhiman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://instagram.com/harnoor_8616" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-  <a href="https://leetcode.com/u/harnoor_8616/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=%23d16c06" />
-  </a>
+<a href="https://www.linkedin.com/in/harnoorkaurdhiman/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/harnoor_8616/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=F83324" alt="LeetCode"/>
+</a>
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F83324&height=2&section=header" width="100%"/>
 
-
 <div align="center">
 
-### ð¡
+### 💡
 
-> *"An algorithm must be seen to be believed."*  
-> **â Donald Knuth**
+> *"An algorithm must be seen to be believed."*
+> **— Donald Knuth**
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F83324,100:000000&height=180&section=footer&text=Think%20%E2%80%A2%20Solve%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80"/>
 
 <div align="center">
-<sub>â­ If this repository helps you on your DSA journey, consider giving it a star!</sub>
+
+<sub>⭐ If this repository helps you on your DSA journey, consider giving it a star!</sub>
+
 </div>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 
