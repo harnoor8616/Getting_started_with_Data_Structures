@@ -198,23 +198,25 @@
     "solved": 34
   },
   "syncedProblems": {
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Remove_Element": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "Remove Element"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-22",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-08-22": 1
+    "2026-08-22": 2
   }
 }
