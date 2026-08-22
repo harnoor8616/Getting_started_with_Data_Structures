@@ -233,7 +233,6 @@ Rather than chasing problem counts, I focus on recognizing recurring techniques,
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -283,6 +282,7 @@ Rather than chasing problem counts, I focus on recognizing recurring techniques,
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0682-baseball-game) |
@@ -319,6 +319,7 @@ Rather than chasing problem counts, I focus on recognizing recurring techniques,
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
