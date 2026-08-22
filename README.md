@@ -233,6 +233,7 @@ Rather than chasing problem counts, I focus on recognizing recurring techniques,
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
 ## Math
 |  |
 | ------- |
