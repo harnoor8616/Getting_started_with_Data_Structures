@@ -90,7 +90,7 @@ Instead of memorizing solutions, I focus on recognizing recurring algorithmic pa
 
 <br/>
 
-### TIER 1 â FOUNDATIONS
+### TIER 1 Ã¢ÂÂ FOUNDATIONS
 
 ```text
 Simulation / Implementation     Arrays
@@ -98,14 +98,14 @@ Strings                         Hashing
 Sorting                         Binary Search
 ```
 
-### TIER 2 â TWO-POINTER FAMILY
+### TIER 2 Ã¢ÂÂ TWO-POINTER FAMILY
 
 ```text
 Two Pointers                    Sliding Window
 Prefix Sum                      Greedy
 ```
 
-### TIER 3 â LINEAR DATA STRUCTURES
+### TIER 3 Ã¢ÂÂ LINEAR DATA STRUCTURES
 
 ```text
 Stack                           Queue
@@ -113,7 +113,7 @@ Linked List                     Monotonic Stack
 Monotonic Queue                 Deque
 ```
 
-### TIER 4 â TREES & HIERARCHICAL STRUCTURES
+### TIER 4 Ã¢ÂÂ TREES & HIERARCHICAL STRUCTURES
 
 ```text
 Trees                           Binary Search Trees
@@ -121,7 +121,7 @@ Trie                            Heap / Priority Queue
 Segment Tree                    Fenwick Tree
 ```
 
-### TIER 5 â GRAPH THEORY
+### TIER 5 Ã¢ÂÂ GRAPH THEORY
 
 ```text
 Graph Basics                    DFS
@@ -129,14 +129,14 @@ BFS                             Topological Sort
 Union Find                      Advanced Graph Algorithms
 ```
 
-### TIER 6 â RECURSIVE & COMBINATORIAL
+### TIER 6 Ã¢ÂÂ RECURSIVE & COMBINATORIAL
 
 ```text
 Recursion                       Backtracking
 Dynamic Programming              Memoization / Tabulation
 ```
 
-### TIER 7 â SPECIALIZED PATTERNS
+### TIER 7 Ã¢ÂÂ SPECIALIZED PATTERNS
 
 ```text
 Bit Manipulation                 Matrix
@@ -158,9 +158,9 @@ Game Theory                      Design Problems
 <br/><br/>
 
 <b>LeetCode</b>
-Â âÂ  <b>Accepted Submission</b>
-Â âÂ  <b>LeetHub</b>
-Â âÂ  <b>GitHub Repository</b>
+ÃÂ Ã¢ÂÂÃÂ  <b>Accepted Submission</b>
+ÃÂ Ã¢ÂÂÃÂ  <b>LeetHub</b>
+ÃÂ Ã¢ÂÂÃÂ  <b>GitHub Repository</b>
 
 </div>
 
@@ -300,7 +300,7 @@ The objective is to build the ability to:
 ### THE MINDSET
 
 > **"An algorithm must be seen to be believed."**
-> â Donald Knuth
+> Ã¢ÂÂ Donald Knuth
 
 <br/>
 
@@ -464,3 +464,4 @@ The objective is to build the ability to:
 | 6 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 21 Aug 2026 | 02:06 pm |
 | 7 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 22 Aug 2026 | 07:46 pm |
 | 8 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 22 Aug 2026 | 08:23 pm |
+| 9 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 22 Aug 2026 | 09:28 pm |
