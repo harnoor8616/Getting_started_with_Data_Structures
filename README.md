@@ -318,7 +318,6 @@ The objective is to build the ability to:
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Math
 |  |
 | ------- |
@@ -363,6 +362,7 @@ The objective is to build the ability to:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -404,6 +404,7 @@ The objective is to build the ability to:
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0832-flipping-an-image) |
@@ -424,6 +425,7 @@ The objective is to build the ability to:
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0414-third-maximum-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
@@ -441,6 +443,14 @@ The objective is to build the ability to:
 | [0704-binary-search](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harnoor8616/Getting_started_with_Data_Structures/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 
 | # | Problem | Platform | Difficulty | Date Solved | Time |
